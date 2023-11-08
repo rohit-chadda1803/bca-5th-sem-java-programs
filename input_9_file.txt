@@ -1,0 +1,8 @@
+this is a file specially ceated for java programs practical
+
+- all codes of this dictionary are to be on github
+- my name is Rohit Chadda.
+- teacher name - Chetan kumar Gupta.
+-Class - Bca (5th sem) 
+
+that's all i hope you like my work.
