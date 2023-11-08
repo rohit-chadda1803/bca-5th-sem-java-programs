@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // created by Rohit Chadda 
 // input - output , program-4
-
+// to get a float from wser using Scanner class.
 
 class inp_float {
     public static void main(String[] args){
