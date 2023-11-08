@@ -2,7 +2,8 @@ import java.applet.*;
 import java.awt.*;
 // this is applet code to create 4 cncentric circles (7th code in applet topic of linked refrence site)
 import javax.swing.JApplet;
-
+// we linked this java code to applet.html file here in same repository , to acess this code run applet.html file code on chrome browser with installing CHEERPI APP-
+//-LET RUNNER CHROME EXTENSION AND EXECUTTING IT .  
 public class applet extends JApplet{
    public void paint(Graphics g) {
       //at first used but more better design i improved it to next .
