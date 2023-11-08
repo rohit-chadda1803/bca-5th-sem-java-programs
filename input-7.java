@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // created by Rohit Chadda 
-// input - output , program-7
+// input - output , program-7 ->(Enter the short integer from user using scanner class)
 // short  - it takes integer form -32,768 to 32,767
 
 
