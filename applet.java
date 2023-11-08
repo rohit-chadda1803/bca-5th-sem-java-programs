@@ -1,6 +1,6 @@
 import java.applet.*;
 import java.awt.*;
-
+// this is applet code to create 4 cncentric circles (7th code in applet topic of linked refrence site)
 import javax.swing.JApplet;
 
 public class applet extends JApplet{
