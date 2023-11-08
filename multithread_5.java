@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+// multi-threading -> CODE 5 -> (Write a Java program that calculates the sum of all prime numbers up to a given limit using multiple threads.)
 class PrimeSumCalculator {
     private static final int THREAD_COUNT = 4;
 
